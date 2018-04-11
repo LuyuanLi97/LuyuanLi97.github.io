@@ -15,3 +15,6 @@ about: "这里是LuyuanLi97的个人博客，创建于2018年。"
 
 safe: true
 paginate: 20
+markdown: kramdown
+krandown:
+    input: GFM
